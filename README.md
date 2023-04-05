@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salih-jpg
 - 📫 there is an email salihyelen11@gmail.com 
 - I am a student at İstanbul Commerce University
-- I have big attention to learning data structures and algorithms
+- I have big attention to usage of data structures and algorithms in real life problems
 - My goal is graduating with high GPA in Cmomputer Engineering
 <!---
 salih-jpg/salih-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
